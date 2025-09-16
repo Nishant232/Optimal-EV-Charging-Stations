@@ -1,0 +1,51 @@
+BusNo,Location,NearbyEVSeller,EVDensity,MallsNearby
+1,Substation-1,0,0,0
+2,DLF Phase 1,3,100,1
+3,DLF Phase 2,4,120,2
+4,DLF Phase 3,2,95,1
+5,DLF Phase 4,3,110,2
+6,DLF Phase 5,2,130,2
+7,Sector 14,2,80,1
+8,Sector 15,1,75,1
+9,Sector 21,2,70,1
+10,Sector 22,3,90,1
+11,Sector 23,2,110,2
+12,Sector 28,2,120,2
+13,Sector 29,6,250,5
+14,Sector 31,2,85,1
+15,Sector 38,2,80,1
+16,Sector 43,3,150,2
+17,Sector 44,6,220,4
+18,Sector 45,2,95,2
+19,Sector 46,4,170,2
+20,Sector 47,2,115,1
+21,Sector 48,4,150,3
+22,Sector 49,2,75,1
+23,Sector 50,2,80,1
+24,Sector 51,1,70,1
+25,Sector 52,1,75,1
+26,Sector 53,1,60,0
+27,Sector 54,1,65,0
+28,Sector 55,2,85,1
+29,Sector 56,2,90,1
+30,Sector 57,2,120,2
+31,Sector 58,1,70,1
+32,Sector 59,1,60,1
+33,Sector 60,2,75,1
+34,Sector 61,2,80,1
+35,Sector 62,2,90,1
+36,Sector 63,3,120,2
+37,Sector 65,3,130,2
+38,Sector 66,4,140,2
+39,Sector 67,3,125,2
+40,MG Road,7,320,7
+41,Cyber City,10,420,8
+42,Udyog Vihar,6,280,4
+43,Hero Honda Chowk,5,200,3
+44,IMT Manesar,1,30,0
+45,Sohna Road,8,310,5
+46,Palam Vihar,3,160,1
+47,South City 1,2,110,1
+48,South City 2,2,120,1
+49,Suncity,2,110,1
+50,Golf Course Road,10,400,8
